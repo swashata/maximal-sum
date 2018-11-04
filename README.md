@@ -1,5 +1,7 @@
 # Maximal sum of contiguous subarray of an array
 
+[![Build Status](https://travis-ci.com/swashata/maximal-sum.svg?branch=master)](https://travis-ci.com/swashata/maximal-sum) [![codecov](https://codecov.io/gh/swashata/maximal-sum/branch/master/graph/badge.svg)](https://codecov.io/gh/swashata/maximal-sum) [![npm version](https://badge.fury.io/js/maximal-sum.svg)](https://badge.fury.io/js/maximal-sum)
+
 It provides two functions to get the job done. Both of them calculate sum of contiguous subarray of an array where the subarray produces maximum possible sum.
 
 For example
