@@ -1,13 +1,17 @@
 {
   "name": "maximal-sum",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get maximal sum of contiguous subarray of an array.",
   "main": "index.js",
   "scripts": {
     "test": "jest --color",
     "test:watch": "jest --color --watch"
   },
-  "author": "",
+  "author": "Swashata Ghosh (https://swas.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swashata/maximal-sum"
+  },
   "license": "MIT",
   "devDependencies": {
     "@wpquark/eslint-config": "^3.0.0",
